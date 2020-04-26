@@ -25,7 +25,7 @@ All the names we referenced are listed here, as a starting point for anyone want
 * Toi Whakaari -- [https://toiwhakaari.ac.nz/](https://toiwhakaari.ac.nz/)
 * Hugi Ásgeirsson -- [http://hugi.se](http://hugi.se)
 * The Borderland -- [http://theborderland.se/](http://theborderland.se/)
-* Edgeryders -- [http://edgeryders.ey](http://edgeryders.ey)
+* Edgeryders -- [http://edgeryders.eu](http://edgeryders.eu)
 * Blivande House -- [https://edgeryders.eu/t/blivande-house-and-studio-beta-sneak-peek/9123](https://edgeryders.eu/t/blivande-house-and-studio-beta-sneak-peek/9123)
 * Syntheist Node -- [https://www.noden.community/](https://www.noden.community/)
 * Religion 2.0 \(see Jamie Wheal at The Assemblage: [https://www.facebook.com/Flowgenome/posts/jamie-wheal-live-at-the-assemblage-designing-church-20-decentralized-spiritualit/2050237378352605/](https://www.facebook.com/Flowgenome/posts/jamie-wheal-live-at-the-assemblage-designing-church-20-decentralized-spiritualit/2050237378352605/)\)
